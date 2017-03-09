@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1375724140 source:c:\users\adriano  de sousa\desktop\projetos_c\pratica2_questao2\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 c:\users\adriano  de sousa\desktop\projetos_c\pratica2_questao2\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1426954099 source:c:\users\adriano  de sousa\desktop\projetos_c\pratica2_questao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
+1375724140 source:e:\projetos_c\nova pasta\pratica_2_q_2\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 e:\projetos_c\nova pasta\pratica_2_q_2\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1426954100 source:e:\projetos_c\nova pasta\pratica_2_q_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
+1375724140 source:c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\nova pasta\pratica_2_q_2\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\nova pasta\pratica_2_q_2\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1487642143 source:c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\nova pasta\pratica_2_q_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
